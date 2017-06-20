@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Down and Out in Paris and London",
-  "type": "text"
+  "type": "text",
+  "book_id": 449
 }
